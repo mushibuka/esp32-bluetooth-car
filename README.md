@@ -9,7 +9,7 @@ A two-motor car driven over Bluetooth Low Energy from the Adafruit Bluefruit Con
 |---|---|---|
 | ![Top-down view](media/car-top-down.jpg) | ![Motor driver](media/car-driver-closeup.jpg) | ![Powered on](media/car-powered-on.jpg) |
 
-**Video:** _(add link here)_
+**Video:** _(https://youtu.be/21NJ9eI_2Sc)_
 
 ## How it works
 
