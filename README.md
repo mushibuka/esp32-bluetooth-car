@@ -1,7 +1,6 @@
 # Bluetooth RC Car (ESP32 + Adafruit Bluefruit Control Pad)
 
-A two-motor car driven over Bluetooth Low Energy from the Adafruit Bluefruit Connect app. Originally built for TAC 348 (Assignment 9) on a Particle Photon 2; this version is ported to an ESP32 using NimBLE-Arduino.
-
+A two-motor car driven over Bluetooth Low Energy from the Adafruit Bluefruit Connect app. Originally built on a Particle Photon 2; this version runs on an ESP32 using NimBLE-Arduino.
 ## Demo
 
 ![The finished car](media/car-front-quarter.jpg)
@@ -85,4 +84,4 @@ BLE connection and button parsing work (Button 1 toggles the LED). Motor drive o
 
 ## Credits
 
-Starting code and assignment from TAC 348 (USC). Controller protocol from the Adafruit Bluefruit LE Connect documentation.
+Controller protocol from the Adafruit Bluefruit LE Connect documentation.
